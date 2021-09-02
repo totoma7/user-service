@@ -1,6 +1,7 @@
 server:
   port: 0
   address: localhost
+
 spring:
   application:
     name: user-service
