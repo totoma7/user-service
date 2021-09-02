@@ -1,4 +1,4 @@
-package com.example.userservice;
+package com.example.userservice.vo;
 
 
 import lombok.Data;
@@ -6,7 +6,7 @@ import lombok.Data;
 import java.util.Date;
 
 @Data
-public class  {
+public class ResponseOrder{
     private String productId;
     private Integer qty;
     private Integer unitPrice;
